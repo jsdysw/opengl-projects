@@ -15,7 +15,7 @@
 * **swimming-man : debug, Win32**
 * **swimming-man-texture-light : debug, x86**
 
-# /swimming-man
+# swimming man
 <img src="./readme-images/swimming-man-left.png" width="350px" height="350px"/><img src="./readme-images/swimming-man-top.png" width="350px" height="350px"/>
 
 * Keboard input 'c' shows the model from its left view point.
@@ -24,7 +24,7 @@
 
 * You can see the source code documentation report through swimming-man.pdf. (Language: Korean)
 
-# /swimming-man-texture-light
+# swimming man texture, light
 
 <img src="./readme-images/swimming-man2-left.png" width="350px" height="250px"/><img src="./readme-images/swimming-man2-top.png" width="350px" height="250px"/>
 
