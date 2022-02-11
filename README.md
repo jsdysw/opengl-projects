@@ -7,11 +7,11 @@
 * You can see the source code documentation report through swimming-man.pdf or swimming-man-texture-light.pdf file. (Language: Korean)
 
 ### How to Compile
-* Whole visual studio project folders are at /vs-project-folder. (unzip first)
+* Whole visual studio project folders are at /vs-project-folder.
 
 * OS type : Windows
 * Used Language : ISO C++14 Standard
-* open "VirtualLego.sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
+* Unzip the project file first and then open ".sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
 * **swimming-man : debug, Win32**
 * **swimming-man-texture-light : debug, x86**
 
