@@ -1,20 +1,19 @@
 # OpenGL Projects
 * With openGL, I made a swimming cube man model.
-* Not only moving animation but also implemented texture and light effect.
+* Not only moving animation but also implemented texture and light effect(GOURAUD, PHONG).
 
 ## Soure codes
-* source codes (shader) are at /src.
+* source codes are at /src.
 * You can see the source code documentation report through swimming-man.pdf or swimming-man-texture-light.pdf file. (Language: Korean)
 
 ## How to Compile
-* Whole visual studio project folders are at /vs-project-folder.
+* Whole visual studio project folders are at /vs-project-folder. (unzip first)
 
 * OS type : Windows
 * Used Language : ISO C++14 Standard
 * open "VirtualLego.sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
-
-** swimming-man : debug, Win32 **
-** swimming-man-texture-light : debug, x86 **
+* ** swimming-man : debug, Win32 **
+* ** swimming-man-texture-light : debug, x86 **
 
 # /swimming-man
 <img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man-left.png" width="450px" height="450px"/>
