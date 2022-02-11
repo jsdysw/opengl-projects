@@ -2,11 +2,11 @@
 * With openGL, I made a swimming cube man model.
 * Not only moving animation but also implemented texture and light effect(GOURAUD, PHONG).
 
-## Soure codes
+### Soure codes
 * source codes are at /src.
 * You can see the source code documentation report through swimming-man.pdf or swimming-man-texture-light.pdf file. (Language: Korean)
 
-## How to Compile
+### How to Compile
 * Whole visual studio project folders are at /vs-project-folder. (unzip first)
 
 * OS type : Windows
@@ -26,7 +26,7 @@
 
 # /swimming-man-texture-light
 
-<img src="./readme-images/swimming-man2-left.png" width="350px" height="350px"/><img src="./readme-images/swimming-man2-top.png" width="350px" height="350px"/>
+<img src="./readme-images/swimming-man2-left.png" width="300px" height="300px"/><img src="./readme-images/swimming-man2-top.png" width="300px" height="300px"/>
 
 * Keboard input 'c' shows the model from its left view point.
 * Keboard input 'v' shows the model from its top view point.
