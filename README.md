@@ -16,8 +16,8 @@
 * **swimming-man-texture-light : debug, x86**
 
 # /swimming-man
-<img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man-left.png" width="450px" height="450px"/>
-<img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man-top.png" width="450px" height="450px"/>
+<img src="./readme-images/swimming-man-left.png" width="450px" height="450px"/>
+<img src="./readme-images/swimming-man-top.png" width="450px" height="450px"/>
 
 * Keboard input 'c' shows the model from its left view point.
 * Keboard input 'v' shows the model from its top view point.
@@ -27,8 +27,8 @@
 
 # /swimming-man-texture-light
 
-<img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man2-left.png" width="450px" height="450px"/>
-<img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man2-top.png" width="450px" height="450px"/>
+<img src="./readme-images/swimming-man2-left.png" width="450px" height="450px"/>
+<img src="./readme-images/swimming-man2-top.png" width="450px" height="450px"/>
 
 * Keboard input 'c' shows the model from its left view point.
 * Keboard input 'v' shows the model from its top view point.
