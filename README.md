@@ -12,8 +12,8 @@
 * OS type : Windows
 * Used Language : ISO C++14 Standard
 * open "VirtualLego.sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
-* ** swimming-man : debug, Win32 **
-* ** swimming-man-texture-light : debug, x86 **
+* **swimming-man : debug, Win32**
+* **swimming-man-texture-light : debug, x86**
 
 # /swimming-man
 <img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme-images/swimming-man-left.png" width="450px" height="450px"/>
