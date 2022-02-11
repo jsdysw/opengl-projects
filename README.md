@@ -16,8 +16,7 @@
 * **swimming-man-texture-light : debug, x86**
 
 # /swimming-man
-<img src="./readme-images/swimming-man-left.png" width="450px" height="450px"/>
-<img src="./readme-images/swimming-man-top.png" width="450px" height="450px"/>
+<img src="./readme-images/swimming-man-left.png" width="300px" height="300px"/><img src="./readme-images/swimming-man-top.png" width="300px" height="300px"/>
 
 * Keboard input 'c' shows the model from its left view point.
 * Keboard input 'v' shows the model from its top view point.
