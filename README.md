@@ -26,7 +26,7 @@
 
 # swimming man texture, light
 
-<img src="./readme-images/swimming-man2-left.png" width="350px" height="250px"/><img src="./readme-images/swimming-man2-top.png" width="350px" height="250px"/>
+<img src="./readme-images/swimming-man2-top.png" width="350px" height="250px"/>
 
 * Keboard input 'c' shows the model from its left view point.
 * Keboard input 'v' shows the model from its top view point.
