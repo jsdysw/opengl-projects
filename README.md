@@ -37,6 +37,6 @@
 
 # Cook-Torrance Model(advanced rendering)
 
-<img src="./readme-images/swimming-man2-left.png" width="350px" height="250px"/><img src="https://user-images.githubusercontent.com/76895949/154519399-d38e9ecb-10f0-45fd-ab2b-cd8d90f9525c.png" width="400px" height="400px"/>
+<img src="https://user-images.githubusercontent.com/76895949/154519399-d38e9ecb-10f0-45fd-ab2b-cd8d90f9525c.png" width="400px" height="400px"/>
 
 * You can see the source code documentation report through advanced-rendering.pdf. (Language: Korean)
