@@ -1,7 +1,7 @@
 # OpenGL Projects
 * With openGL, I made a swimming cube man model.
 * Not only moving animation but also implemented texture and light effect(GOURAUD, PHONG).
-* Also there are a realist bag model. (Cook-Torrance, advanced rendering)
+* Also there is a realist bag model. (Cook-Torrance, advanced rendering)
 
 ### Soure codes
 * source codes are at /src.
