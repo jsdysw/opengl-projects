@@ -40,5 +40,5 @@
 
 <img src="https://user-images.githubusercontent.com/76895949/154519399-d38e9ecb-10f0-45fd-ab2b-cd8d90f9525c.png" width="400px" height="400px"/>
 
-* Load model file with texture map and calculate cook-torrance light
+* Load model file with texture map and calculate cook-torrance light.
 * You can see the source code documentation report through advanced-rendering.pdf. (Language: Korean)
